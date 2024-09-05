@@ -1,2 +1,2 @@
 # estudos de go!
-Repositório de práticas de programação na linguagem Golang!
+Repositório de práticas de programação na linguagem Golang!!
