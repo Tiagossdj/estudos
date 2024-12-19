@@ -1,0 +1,5 @@
+=c.out mode: set
+test/ex/ex.go:3.14,4.2 0 0
+test/ex/ex.go:6.25,8.22 2 1
+test/ex/ex.go:8.22,10.3 1 1
+test/ex/ex.go:11.2,11.14 1 1
